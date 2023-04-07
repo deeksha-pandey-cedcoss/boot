@@ -1,0 +1,17 @@
+#carouselExampleCaptions{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main{
+    background-color: rgb(245, 219, 219);
+    
+}
+.btn{
+    border: 2px solid rgba(108, 89, 179, 0.75);
+}
+.cards{
+    display: flex;
+    
+}
